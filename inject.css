@@ -1,0 +1,14 @@
+#left_menu #left_menu_inner {
+  padding-bottom: 4rem;
+}
+
+.task_list_item__info_tags {
+  padding: 5px 0px 5px 5px !important;
+}
+
+.task_list_item
+  .task_list_item__content
+  .task_list_item__content__wrapper
+  .task_description {
+  /* padding: 5px !important; */
+}
